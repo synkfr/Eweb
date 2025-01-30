@@ -203,12 +203,13 @@ header.sticky {
 .theme-toggle-btn {
   cursor: pointer;
   display: flex;
+  align-items: center;
   gap: 0.5rem;
 }
 
-
 .theme-icon {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  line-height: 1;
   transition: transform 0.3s ease;
 }
 
