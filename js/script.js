@@ -22,9 +22,9 @@ const themeIcon = document.querySelector('.theme-icon');
 themeToggle.addEventListener('click', () => {
   if (body.getAttribute('data-theme') === 'dark') {
     body.removeAttribute('data-theme');
-    themeIcon.textContent = '⏾';
+    themeIcon.textContent = '☾';
   } else {
     body.setAttribute('data-theme', 'dark');
-    themeIcon.textContent = ' ☀︎ ';
+    themeIcon.textContent = ' ☼ ';
   }
 });
