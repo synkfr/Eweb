@@ -12,3 +12,6 @@
 
 ## Tablet dark-mode
 <div><img src="tablet-dark.jpg"></div>
+
+## Mobile look light/dark mode
+<div><img src="tablet-dark.jpg"></div>
